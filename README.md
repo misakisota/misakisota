@@ -1,7 +1,7 @@
 ## About me
 
 - Recently I have been contributing to OSS!
-- I develop mainly with React, Next.js, and Hono.
+- I often use React, Next.js, and Hono in my development.
 - And he loves cats!
 
 ## Contact
