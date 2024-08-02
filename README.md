@@ -1,7 +1,7 @@
 ## About me
 
 - Recently I have been contributing to OSS!
-- I develop mainly with React, Next.js, and Laravel.
+- I develop mainly with React, Next.js, and Hono.
 - And he loves cats!
 
 ## Contact
